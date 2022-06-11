@@ -786,8 +786,8 @@ select::-ms-expand {
     line-height: 2;
     letter-spacing: normal;
     color: #fff;
-    width: 100%;
-    border: none;
+    width: 100%;   
+    border: 1px solid #7c3ff2;
     border-radius: 28px;
     text-transform: capitalize;
 }
@@ -798,6 +798,8 @@ select::-ms-expand {
 }
 .section-8 .hs-submit-button  button{
     background-color: #ffa52e;
+       border: 1px solid #ffa52a;
+
 }
 .section-8 .hs-submit-button  button:hover{
     border: 1px solid  #ffa52e;
